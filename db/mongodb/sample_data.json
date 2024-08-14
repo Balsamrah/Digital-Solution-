@@ -1,0 +1,75 @@
+[
+    {
+      "type": "Server",
+      "name": "Server A",
+      "numCores": 8,
+      "memory": "64GB",
+      "storage": "2TB SSD",
+      "location": "Data Center 1"
+    },
+    {
+      "type": "Server",
+      "name": "Server B",
+      "numCores": 4,
+      "memory": "32GB",
+      "storage": "1TB SSD",
+      "location": "Data Center 2"
+    },
+    {
+      "type": "Router",
+      "name": "Router X",
+      "brand": "Cisco",
+      "ports": 8,
+      "firmware": "v1.2.3"
+    },
+    {
+      "type": "Switch",
+      "name": "Switch Y",
+      "brand": "Netgear",
+      "ports": 24,
+      "managed": true
+    },
+    {
+      "type": "Workstation",
+      "name": "Workstation C",
+      "numCores": 6,
+      "memory": "16GB",
+      "gpu": "NVIDIA GTX 1080",
+      "storage": "512GB SSD"
+    },
+    {
+      "type": "Mouse",
+      "name": "Mouse Z",
+      "brand": "Logitech",
+      "dpi": 16000,
+      "wireless": true
+    },
+    {
+      "type": "Keyboard",
+      "name": "Keyboard Alpha",
+      "brand": "Corsair",
+      "mechanical": true,
+      "rgbLighting": true
+    },
+    {
+      "type": "Headset",
+      "name": "Headset Beta",
+      "brand": "SteelSeries",
+      "wireless": true,
+      "surroundSound": "7.1"
+    },
+    {
+      "type": "Server",
+      "name": "Server D",
+      "memory": "128GB",
+      "storage": "4TB SSD",
+      "location": "Data Center 3"
+    },
+    {
+      "type": "Router",
+      "name": "Router Z",
+      "brand": "HPE Aruba",
+      "ports": 16,
+      "firmware": "v2.0.1"
+    }
+  ]
